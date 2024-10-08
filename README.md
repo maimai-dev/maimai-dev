@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=maimai-dev&color=006bed) 
 
-## Olá, meu nome é Maiara ☀️
+## Olá, meu nome é Maiara Barbosa Nunes ☀️
 
 - ⭐ Apaixonada por tecnologia e games.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital.
