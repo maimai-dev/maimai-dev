@@ -5,7 +5,7 @@
 - ⭐ Apaixonada por tecnologia e games.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital.
 - 💼 Trabalhando como Desenvolvedora | Analista de TI Junior no Banco do Brasil.
-- 🌱 Aprendendo mais sobre Node.js, C#, Java.
+- 🌱 Aprendendo mais sobre Node.js, C#, TypeScript, Service Now.
 
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm10MDU3cWR5NWJhYmc2OWdzNGdqYjd2aHJwbTVjbWlmb3VqZzU2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JoyEW8QfzA0o/giphy.gif)
 
