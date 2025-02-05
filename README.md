@@ -14,7 +14,6 @@
 **Aplicações e dados**
 
 ![C#](https://img.shields.io/badge/C%23-333333?logo=c-sharp&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-333333?&logo=Java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=javascript&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?&logo=HTML5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-333333?&logo=CSS3&logoColor=white&style=for-the-badge)
